@@ -1,0 +1,826 @@
+[19-Sep-2024 08:56:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_optimized_size_keys` successfully executed.
+[19-Sep-2024 08:56:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_mime_type` successfully executed.
+[19-Sep-2024 08:56:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[19-Sep-2024 09:09:53 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[20-Sep-2024 06:42:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[20-Sep-2024 06:42:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[20-Sep-2024 07:20:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[20-Sep-2024 07:22:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[22-Sep-2024 19:11:43 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[23-Sep-2024 19:01:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[23-Sep-2024 19:19:10 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:19:12 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:19:31 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:19:31 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:20:38 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:22:37 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:23:22 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:26:13 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:26:18 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:26:40 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:26:49 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:28:44 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:29:36 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:29:39 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:29:45 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:36:34 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:37:10 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:37:35 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:37:38 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:39:14 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:41:43 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:41:47 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:51:32 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:51:33 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:57:12 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:57:15 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:57:21 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:57:22 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:57:27 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:57:57 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:58:04 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:58:04 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[23-Sep-2024 19:58:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[23-Sep-2024 19:58:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[23-Sep-2024 19:58:34 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[23-Sep-2024 19:58:39 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[23-Sep-2024 19:58:44 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[23-Sep-2024 19:58:47 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:58:48 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:59:27 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:59:48 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:59:52 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:59:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 19:59:57 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:00:42 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:00:53 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:00:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:00:59 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:02:44 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:02:59 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:03:05 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:03:06 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:03:07 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:03:41 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:03:53 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:04:05 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:04:09 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:04:10 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:04:13 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:04:16 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:04:19 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:04:23 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:04:33 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:04:38 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:05:05 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:05:19 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:05:25 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:05:35 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:06:25 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:06:33 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:06:45 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:07:06 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:07:11 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:07:18 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:07:18 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:07:37 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:07:37 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:07:37 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:07:38 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:07:38 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:07:38 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:07:58 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:08:03 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:08:04 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:08:04 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:08:04 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:08:05 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:08:30 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:08:39 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:08:44 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:09:11 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:09:15 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:09:29 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:09:41 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:09:41 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:09:51 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:10:11 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:10:16 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:10:22 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:10:25 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:10:30 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:10:31 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:10:47 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:10:50 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:10:53 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:10:59 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:11:00 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:11:05 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:11:07 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:11:37 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:11:45 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:11:46 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:11:48 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:11:49 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:11:51 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:12:22 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:12:29 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:14:45 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:16:13 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:16:27 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:16:54 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:17:16 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:18:15 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:18:15 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:18:19 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:18:32 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:19:57 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:21:14 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:21:18 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:21:19 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:21:35 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:21:35 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:22:20 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:22:22 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:22:47 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:28:03 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:29:10 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:29:19 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:30:06 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:30:28 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:30:29 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:31:04 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:33:46 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:34:22 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:34:29 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:34:45 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:34:50 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:34:52 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[23-Sep-2024 20:34:58 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:11:37 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:11:47 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:11:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:12:10 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:12:30 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:12:41 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:12:42 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:24:15 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:24:42 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:24:44 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:25:18 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:25:40 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:25:42 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:39:37 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:39:37 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_avif_with_zero_dimensions` successfully executed.
+[24-Sep-2024 19:39:52 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:40:03 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:40:12 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:40:13 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:42:03 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:42:05 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:43:04 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:43:09 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:43:16 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 19:43:18 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:02:20 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:02:21 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:02:27 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:03:22 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:04:20 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:04:21 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:05:57 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:06:10 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:08:17 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:08:22 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:09:22 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:09:23 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:09:34 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:09:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:11:52 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[24-Sep-2024 20:12:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:13:42 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:19:03 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:19:23 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:19:33 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:20:58 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:21:05 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:25:05 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:28:37 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:29:20 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 20:29:29 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:20:08 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:20:17 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:20:23 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:21:31 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:21:40 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:22:10 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:22:30 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:22:36 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:22:36 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:23:00 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:23:35 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:24:17 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:25:19 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:29:21 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:29:29 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:29:35 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:29:37 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:33:20 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:33:28 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:35:46 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:35:50 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:36:07 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:36:38 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:36:59 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:37:06 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:37:13 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:37:20 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:37:26 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:37:36 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:37:45 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:38:12 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:38:17 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:38:32 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:38:32 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:38:38 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:38:42 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:38:52 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:39:04 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:39:09 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:39:25 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:39:36 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:39:47 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:39:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:40:00 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:40:11 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:40:19 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:40:27 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:40:33 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:40:47 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:42:28 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:42:45 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:42:55 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:42:59 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:42:59 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:45:53 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:45:53 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:47:26 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:47:35 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:48:34 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:48:38 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:50:21 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[24-Sep-2024 23:50:26 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 00:00:13 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 00:00:18 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 00:00:28 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 00:09:14 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 00:17:40 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 00:22:55 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 00:23:05 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 00:23:34 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 00:24:12 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 00:24:16 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 00:24:21 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 05:53:35 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 05:53:35 UTC] PHP Warning:  Undefined property: ImageOptimization\Modules\ConnectManager\Classes\Connect_Runner::$get_client_secret in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-content\plugins\image-optimization\modules\core\module.php on line 208
+[25-Sep-2024 05:53:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 05:55:23 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 05:55:28 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 06:07:19 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 06:21:53 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 06:34:58 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:31:48 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:35:21 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:42:06 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:44:24 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:46:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:47:01 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:47:12 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:47:15 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:47:55 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:47:57 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:48:18 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:50:30 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:50:33 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:56:49 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:56:50 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 08:56:52 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:01:41 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:01:54 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:02:11 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:02:16 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:02:32 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:03:14 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:03:42 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:03:51 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:04:08 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:04:09 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:04:22 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:04:33 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:04:34 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:05:10 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:05:17 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:05:36 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:06:33 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:07:39 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:07:51 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:08:07 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:09:13 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:10:57 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:11:28 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:14:07 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 09:14:20 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 13:55:24 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:45:16 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:45:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:55:03 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:55:26 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:55:52 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:55:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:56:22 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:56:36 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:58:12 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:58:13 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:58:13 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:58:14 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:58:14 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:58:17 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:58:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:58:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:58:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:58:37 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:58:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:58:54 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:58:55 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:58:55 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:58:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 14:58:57 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:59:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:59:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:59:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:59:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:59:33 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:59:37 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:59:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:59:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:59:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 14:59:57 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:00:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:00:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:00:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:00:17 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:00:37 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:00:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:01:11 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:01:11 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:02:20 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:03:04 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:03:04 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:05:20 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:10:16 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:10:24 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:10:38 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:10:51 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:11:30 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:12:23 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:14:21 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:14:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:14:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:15:07 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:15:07 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:15:21 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:15:21 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:15:45 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:15:45 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:15:48 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:15:52 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:16:28 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:16:33 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:17:03 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:17:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:17:13 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:17:18 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:17:23 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:17:28 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:17:33 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:17:39 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:17:40 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:19:23 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:30:20 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:30:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:41:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:41:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:41:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:41:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:41:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:42:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:42:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:42:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:42:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:42:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:42:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:42:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:42:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:42:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:42:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:42:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:42:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:43:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:43:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:43:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:43:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:43:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:43:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:43:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:43:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:43:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:43:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:43:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:43:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:44:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:44:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:44:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:44:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:44:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:44:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:44:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:44:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:44:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:44:46 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:44:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:44:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:45:01 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:45:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:45:11 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:45:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:45:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:45:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:45:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:45:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:45:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:45:46 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:45:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:45:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:45:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:46:01 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:46:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:46:11 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:46:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:46:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:46:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:46:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:46:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:46:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:46:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:47:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:48:12 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:48:36 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:48:42 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:48:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:49:19 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:49:20 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:49:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:50:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:50:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:50:36 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:50:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:50:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:50:42 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:50:46 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:50:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:50:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:51:01 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:51:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:51:11 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:51:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:51:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:51:24 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:51:24 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:51:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:51:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:51:34 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 15:51:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:51:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:52:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:52:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:52:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:52:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:52:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:52:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:52:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:53:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:53:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:53:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:53:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:53:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:53:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:53:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:53:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:53:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:53:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:53:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:53:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:54:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:54:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:54:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:54:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:54:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:54:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:54:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:54:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:54:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:54:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:54:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:54:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:55:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:55:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:55:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:55:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:55:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:55:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:55:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:55:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:55:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:55:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:55:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:55:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:56:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:56:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:56:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:56:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:56:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:56:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:56:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:56:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:56:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:56:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:56:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:56:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:57:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:57:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:57:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:57:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:57:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:57:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:57:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:57:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:57:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:57:46 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:57:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:57:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:58:01 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:58:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:58:11 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:58:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:58:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:58:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:58:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:58:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:58:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:58:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 15:59:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:00:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:01:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:02:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:03:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:04:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:05:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:06:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:07:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:08:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:09:49 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:09:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:09:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:09:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 16:10:01 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:10:02 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 16:10:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:10:11 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:10:11 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 16:10:12 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 16:10:13 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 16:10:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:10:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:10:26 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 16:10:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:10:30 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 16:10:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:10:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:10:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:10:46 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:10:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:11:10 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 16:11:11 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 16:11:17 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 16:11:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:12:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:13:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:14:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:15:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:16:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:17:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:18:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:19:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:20:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:21:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:22:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:23:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:24:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:25:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:26:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:27:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:28:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:29:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:30:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:31:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:32:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:33:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:34:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:35:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:36:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:37:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:38:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:39:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:40:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:41:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:42:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:43:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:44:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:45:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:46:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:47:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:48:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:49:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:50:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:51:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:52:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:53:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:54:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:55:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:56:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:57:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:58:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 16:59:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:00:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:01:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:02:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:03:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:04:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:05:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:06:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:07:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:08:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:09:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:10:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:11:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:12:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:13:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:14:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:15:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:16:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:17:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:18:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:19:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:20:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:21:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:22:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:23:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:24:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:25:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:26:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:27:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:28:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:29:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:30:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:31:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:32:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:33:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:34:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:35:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:36:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:37:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:38:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:39:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:40:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:41:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:42:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:43:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:43:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:43:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:43:46 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:43:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:43:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:44:01 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:44:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:44:11 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:44:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:44:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:44:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:44:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:44:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:45:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:46:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:47:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:48:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:49:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:50:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:51:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:52:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:53:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:54:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:55:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:56:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:57:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:58:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 17:59:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:00:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:01:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:02:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:03:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:04:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:05:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:06:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:07:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:08:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:09:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:10:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:11:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:12:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:13:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:13:59 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:14:00 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:14:15 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:14:58 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:15:19 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:17:10 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:17:11 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:19:27 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:19:29 UTC] PHP Warning:  Undefined property: ImageOptimization\Modules\ConnectManager\Classes\Connect_Runner::$get_client_secret in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-content\plugins\image-optimization\modules\core\module.php on line 208
+[25-Sep-2024 18:19:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:19:31 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:19:31 UTC] PHP Warning:  Undefined property: ImageOptimization\Modules\ConnectManager\Classes\Connect_Runner::$get_client_secret in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-content\plugins\image-optimization\modules\core\module.php on line 208
+[25-Sep-2024 18:19:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:19:52 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:19:58 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:22:31 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:22:48 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:29:30 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:34:53 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:34:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:35:43 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:47:02 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:47:07 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:47:19 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[25-Sep-2024 18:47:25 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:47:26 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 18:47:33 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:11:41 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:11:48 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:11:56 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:14:22 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:14:26 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:15:03 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/google-analytics-for-wordpress-en_GB.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/google-analytics-for-wordpress-en_GB.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/google-analytics-for-wordpress-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/google-analytics-for-wordpress-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/google-analytics-for-wordpress-en_GB.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/google-analytics-for-wordpress-en_GB.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/google-analytics-for-wordpress-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/google-analytics-for-wordpress-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/redirection-en_GB.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/redirection-en_GB.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/redirection-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/redirection-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/redirection-en_GB.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/redirection-en_GB.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/redirection-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:00 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/redirection-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:01 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/secupress-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:01 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/secupress-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:01 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/secupress-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:01 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/secupress-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:02 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/social-warfare-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:02 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/social-warfare-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:02 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/social-warfare-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:02 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/social-warfare-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:16:08 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:16:18 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:16:29 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:16:51 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:18:32 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:19:27 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:19:32 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:23:57 UTC] Automattic\WooCommerce\Admin\Features\Navigation\Menu::add_plugin_item is deprecated since 9.3 with no alternative. Navigation classes will be removed in WooCommerce 9.4
+[25-Sep-2024 21:24:14 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/header-footer-elementor-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:24:14 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/header-footer-elementor-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:24:14 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/header-footer-elementor-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:24:14 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/header-footer-elementor-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:24:15 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/updraftplus-en_GB.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:24:15 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/updraftplus-en_GB.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:24:15 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/updraftplus-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:24:15 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/updraftplus-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:24:15 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/updraftplus-en_GB.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:24:15 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/updraftplus-en_GB.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:24:15 UTC] PHP Warning:  include(C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/updraftplus-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[25-Sep-2024 21:24:15 UTC] PHP Warning:  include(): Failed opening 'C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/updraftplus-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\darkl\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
